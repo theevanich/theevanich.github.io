@@ -104,8 +104,8 @@ author:
   name             : "Thee Vanich"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Berlin, Germany"
+  email            : "thee.vanich(at)gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
